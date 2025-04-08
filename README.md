@@ -7,7 +7,6 @@ The Builders Bounty program is a curated list of ideas contributed by the commun
 Browse available ideas on our [Ideas Board](https://github.com/orgs/ronin-chain/projects/1). Ideas are reviewed before being categorized into one of three states:
 
 * Open - Available opportunities that anyone can tackle.
-* In Progress - Opportunities currently being developed by builders.
 * Completed - Successfully implemented solutions.
 
 **Steps**
