@@ -1,7 +1,6 @@
 ## Builders Wish
 
-The Builders Wish program is a curated list of ideas contributed by the community. Ronin Builders can tackle these key challenges and opportunities within our ecosystem through our [Builders Grant initiative](https://www.notion.so/skymavis/Builders-Grant-15ac48ae3fdd80219af1c8c45d2ebdb7).
-**Grants are not guranteed
+The Builders Wish program is a curated list of ideas contributed by the community. Ronin Builders can tackle these key challenges and opportunities within our ecosystem through our [Builders Grant initiative](https://www.notion.so/skymavis/Builders-Grant-15ac48ae3fdd80219af1c8c45d2ebdb7).(*Grants are not guranteed)
 
 ### How to participate in the Builders Wish?
 
