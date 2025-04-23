@@ -1,8 +1,8 @@
-## Builders Wish
+## Build-an-idea Program
 
-The Builders Wish program is a curated list of ideas contributed by the community. Ronin Builders can tackle these key challenges and opportunities within our ecosystem through our [Builders Grant initiative](https://www.notion.so/skymavis/Builders-Grant-15ac48ae3fdd80219af1c8c45d2ebdb7).(*Grants are not guranteed)
+The Build-an-idea program is a curated list of ideas contributed by the community. Ronin Builders can tackle these key challenges and opportunities within our ecosystem through our [Builders Grant initiative](https://www.notion.so/skymavis/Builders-Grant-15ac48ae3fdd80219af1c8c45d2ebdb7).(*Grants are not guaranteed)
 
-### How to participate in the Builders Wish?
+### How to participate in the Build-an-idea?
 
 Browse available ideas on our [Ideas Board](https://github.com/orgs/ronin-chain/projects/1). Ideas are reviewed before being categorized into one of three states:
 
