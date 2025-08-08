@@ -1,8 +1,8 @@
 ## Builder Wishlist
 
-The Build-an-idea program is a curated list of ideas contributed by the community. Ronin Builders can tackle these key challenges and opportunities within our ecosystem through our [Builders Grant initiative](https://www.notion.so/skymavis/Builders-Grant-15ac48ae3fdd80219af1c8c45d2ebdb7).(*Grants are not guaranteed)
+The Builder Wishlist program is a curated list of ideas by the Ecosystem & community. Ronin Builders can tackle these key challenges and opportunities within our ecosystem through our [Lightning Grant initiative](https://www.notion.so/skymavis/Builders-Grant-15ac48ae3fdd80219af1c8c45d2ebdb7).(*Grants are not guaranteed)
 
-### How to participate in the Build-an-idea?
+### How to participate in the Wishlist?
 
 Browse available ideas on our [Ideas Board](https://github.com/orgs/ronin-chain/projects/1). Ideas are reviewed before being categorized into one of three states:
 
